@@ -1,0 +1,5 @@
+/Users/richard/Documents/WORKSPACE/Projects/babyCam/cpp/build/CMakeFiles/VideoServer.dir
+/Users/richard/Documents/WORKSPACE/Projects/babyCam/cpp/build/CMakeFiles/testMyApp.dir
+/Users/richard/Documents/WORKSPACE/Projects/babyCam/cpp/build/CMakeFiles/test.dir
+/Users/richard/Documents/WORKSPACE/Projects/babyCam/cpp/build/CMakeFiles/edit_cache.dir
+/Users/richard/Documents/WORKSPACE/Projects/babyCam/cpp/build/CMakeFiles/rebuild_cache.dir

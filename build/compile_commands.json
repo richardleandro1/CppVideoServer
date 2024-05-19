@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/richard/Documents/WORKSPACE/Projects/babyCam/cpp/build",
+  "command": "/usr/bin/clang++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/Users/richard/Documents/WORKSPACE/Projects/babyCam/cpp/include -I/opt/homebrew/Cellar/ffmpeg/7.0_1/include -I/opt/homebrew/Cellar/sdl2/2.30.3/include -I/opt/homebrew/Cellar/sdl2/2.30.3/include/SDL2 -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/VideoServer.dir/src/main.cpp.o -c /Users/richard/Documents/WORKSPACE/Projects/babyCam/cpp/src/main.cpp",
+  "file": "/Users/richard/Documents/WORKSPACE/Projects/babyCam/cpp/src/main.cpp",
+  "output": "CMakeFiles/VideoServer.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/richard/Documents/WORKSPACE/Projects/babyCam/cpp/build",
+  "command": "/usr/bin/clang++ -I/Users/richard/Documents/WORKSPACE/Projects/babyCam/cpp/include -I/opt/homebrew/Cellar/ffmpeg/7.0_1/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/testMyApp.dir/test_main.cpp.o -c /Users/richard/Documents/WORKSPACE/Projects/babyCam/cpp/test_main.cpp",
+  "file": "/Users/richard/Documents/WORKSPACE/Projects/babyCam/cpp/test_main.cpp",
+  "output": "CMakeFiles/testMyApp.dir/test_main.cpp.o"
+}
+]
